@@ -1,0 +1,20 @@
+body{
+    background-color: grey;
+
+}
+.content{
+    color: azure
+
+}
+.last{
+    color: azure;
+    text-align: left;
+    font-size: 15px;
+    margin-left:40px;
+    margin-top: 20px;
+}
+.mast{
+    background-color: black;
+    margin-top: 30px;
+}
+

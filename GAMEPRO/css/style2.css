@@ -1,0 +1,12 @@
+body{
+    background-image: url("newshoot.jpg");
+    background-size: cover;
+}
+.push{
+    margin-top: 100px;
+    margin-left: 300px;
+    margin-right: 200px;
+}
+.item{
+    background-size: cover;
+}

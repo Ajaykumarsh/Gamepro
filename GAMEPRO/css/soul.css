@@ -1,0 +1,19 @@
+.main{
+    background-color: rgb(38, 38, 38);
+    color: azure;
+    margin-top:50px;
+}
+.mast{
+    background-color:ghostwhite;
+}
+.last{
+    color: azure;
+    text-align: left;
+    font-size: 15px;
+    margin-left:40px;
+    margin-top: 20px;
+}
+.mat{
+    background-color: black;
+    margin-top: 30px;
+}
